@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AppDev Task1</string>
+    <string-array name="Dept_array">
+        <item>CSE</item>
+        <item>CHEMICAL</item>
+        <item>ECE</item>
+        <item>EEE</item>
+        <item>ICE</item>
+        <item>CIVIL</item>
+        <item>MME</item>
+        <item>PROD</item>
+    </string-array>
+</resources>
