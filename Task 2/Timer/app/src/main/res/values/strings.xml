@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Timer</string>
+    <string-array name="music_array">
+        <item>demons</item>
+        <item>payphone</item>
+    </string-array>
+</resources>
